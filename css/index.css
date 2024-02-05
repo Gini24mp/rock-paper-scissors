@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    font-family: "Roboto", san-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1, p, #result, #choice, #selection_form {
+    margin: 10px;
+}
