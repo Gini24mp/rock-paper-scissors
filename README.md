@@ -36,7 +36,7 @@ No installation is required. Simply open the `index.html` file in a web browser.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit/) file for details.
 
 ## Acknowledgments
 
